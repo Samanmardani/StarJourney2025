@@ -15,3 +15,4 @@ Commit 13: Improving my project bit by bit! 🧩
 Commit 14: Learning to document my work! 📝
 Commit 15: Another step towards my goals! 🏁
 Commit 16: Day four of my commit streak! ⏰
+Commit 17: Adding more details to my journey! 🗺️
