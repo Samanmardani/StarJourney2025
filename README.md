@@ -8,3 +8,4 @@ Commit 6: Exploring GitHub features! 🛠️
 Commit 7: Day two of my coding streak! 🔥
 Commit 8: Making progress, one commit at a time! ⏳
 Commit 9: Adding value to my project! 💎
+Commit 10: Celebrating 10 commits in this batch! 🎉
