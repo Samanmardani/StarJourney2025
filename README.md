@@ -18,3 +18,4 @@ Commit 16: Day four of my commit streak! ⏰
 Commit 17: Adding more details to my journey! 🗺️
 Commit 18: Growing my GitHub presence! 🌍
 Commit 19: Consistency is key! 🔑
+Commit 20: Halfway through my 50 commits! 🥳
