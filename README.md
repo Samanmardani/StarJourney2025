@@ -1,1 +1,2 @@
 # 🌟 StarJourney2025: My Learning Adventure! 🌟 Hi there! Welcome to my new project where I'm documenting my journey of learning GitHub and coding. I'm working on exciting tasks to improve my skills, and I'd love your support! If you find this project interesting, please give it a **Star** ⭐ to motivate me on this journey! ## What's Inside? - 📚 Learning GitHub basics - 🚀 Practicing commits and contributions - 🌱 Growing my skills step by step Thanks for visiting! Let's grow together! 😊
+Commit 1: Starting my fresh contribution journey! 
